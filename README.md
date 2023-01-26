@@ -1,4 +1,4 @@
-# VM Translator
+# stack-vm
 
 This repo contains a translator and second-stage compiler that translates a simple, stack-based VM's bytecode to a two register ISA.
 
